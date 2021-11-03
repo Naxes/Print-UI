@@ -1,0 +1,19 @@
+{
+  "name": "print-ui",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naxes/Print-UI.git"
+  },
+  "author": "Seán Bickmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naxes/Print-UI/issues"
+  },
+  "homepage": "https://github.com/Naxes/Print-UI#readme"
+}
