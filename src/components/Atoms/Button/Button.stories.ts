@@ -41,7 +41,6 @@ export default {
 export const Default = {
   args: {
     children: 'Hello World',
-    outlined: false,
   },
 };
 
