@@ -1,6 +1,6 @@
 {
   "name": "print-ui",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "A simple React component library focused on readability.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
