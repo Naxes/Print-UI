@@ -202,7 +202,7 @@ const Graduations = () => (
 );
 
 type Props = {
-  date: Date,
+  date?: Date,
 }
 
 export const AnalogClock = ({ date }: Props) => {
