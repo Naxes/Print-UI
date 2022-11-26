@@ -175,6 +175,11 @@ const Hand = styled('div', {
   },
 });
 
+/**
+ * before/after digits for each
+ * quadrant (i.e. 12, 3, 6, & 9).
+ * @constructor
+ */
 const Digits = () => (
   <>
     <Digit/>
@@ -182,6 +187,11 @@ const Digits = () => (
   </>
 );
 
+/**
+ * before/after graduations for
+ * each quadrant.
+ * @constructor
+ */
 const Graduations = () => (
   <>
     <Graduation/>
