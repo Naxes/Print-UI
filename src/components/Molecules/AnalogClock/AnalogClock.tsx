@@ -189,7 +189,7 @@ const Digits = () => (
 
 /**
  * before/after graduations for
- * each quadrant.
+ * each quadrant (i.e. dots).
  * @constructor
  */
 const Graduations = () => (
