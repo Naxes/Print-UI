@@ -205,6 +205,10 @@ type Props = {
   date?: Date,
 }
 
+/**
+ * @param date
+ * @constructor
+ */
 export const AnalogClock = ({ date }: Props) => {
   let timer: ReturnType<typeof setInterval>;
   const now = date || new Date();
